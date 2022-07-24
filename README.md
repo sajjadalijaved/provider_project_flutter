@@ -1,4 +1,4 @@
-# provider_project
+# provider_project_flutter
 
 A new Flutter project.
 
